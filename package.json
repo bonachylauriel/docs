@@ -55,7 +55,7 @@
     "hot-shots": "^8.2.0",
     "html-entities": "^1.2.1",
     "html-truncate": "^1.2.2",
-    "hubdown": "^2.6.0",
+    "hubdown": "^3.0.0",
     "imurmurhash": "^0.1.4",
     "instantsearch.js": "^4.8.2",
     "is-url": "^1.2.4",
